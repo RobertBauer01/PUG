@@ -1,0 +1,32 @@
+{
+    "profiles": [
+    {
+    "firstname": "Tom",
+    "lastname": "Jagger",
+    "bio": "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet.",
+    "tagline": "Developer, Writer and Speaker",
+    "twitter": "https://twitter.com/",
+    "imgSrc": "tom-jagger.jpg",
+    "id": "tom"
+    },
+    {
+    "firstname": "Sarah",
+    
+    "lastname": "You",
+    "bio": "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet.",
+    "tagline": "UX/UI Designer",
+    "twitter": "https://twitter.com/",
+    "imgSrc": "sarah-you.jpg",
+    "id": "sarah"
+    },
+    {
+    "firstname": "Caroline",
+    "lastname": "Green",
+    "bio": "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet.",
+    "tagline": "Consultant and Photographer",
+    "twitter": "https://twitter.com/",
+    "imgSrc": "caroline-green.jpg",
+    "id": "caroline"
+    }
+    ]
+    }
